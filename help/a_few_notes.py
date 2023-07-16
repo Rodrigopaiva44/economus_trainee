@@ -4,17 +4,17 @@ from openpyxl.utils import get_column_letter
 # openpyxl is a famous libraly to work with excel
 # openpyxl.utils is a group of tools to make the work easier
 
-# Create a new Workbook
+# Create a new Workbook (Criando uma planilha)
 wb = Workbook()
 ws = wb.active
 ws.title = "Data"
 
-# Loading an existing workbook
+# Loading an existing workbook (Carregando uma planilha existente)
 wb = load_workbook('grades.xlsx')
 ws = wb.active
 ws = wb["Plan1"]  # to modify only this sheet
 
-# Acessing cell values
+# Acessing cell values (acessando os valores das células da planilha)
 print(ws["A2"].value)
 
 # Change a value

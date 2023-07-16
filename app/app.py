@@ -1,6 +1,5 @@
 import PySimpleGUI as sg
-import in_out_plot
-import cash_flow_plot
+import defs
 
 
 def app():
@@ -18,9 +17,9 @@ def app():
         if event == sg.WINDOW_CLOSED or event == 'Exit':
             break
         if event == "Entrada/Saida":
-            in_out_plot.create_in_out_plot()
+            defs.create_in_out_plot()
         if event == "Capital":
-            cash_flow_plot.create_cash_flow_plot()
+            defs.create_cash_flow_plot()
     window.close()
 
 
