@@ -1,0 +1,76 @@
+{
+  "Produtos": [
+    {
+      "Nome": "Ração para cachorro/Kg",
+      "Preço atual dos produtos": "R$ 19.90",
+      "Preço ideal dos produtos": "R$ 17.00",
+      "Custos Operacionais": "R$ 11.90",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Ração para gato/Kg",
+      "Preço atual dos produtos": "R$ 20.70",
+      "Preço ideal dos produtos": "R$ 19.86",
+      "Custos Operacionais": "R$ 13.90",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Coleiras",
+      "Preço atual dos produtos": "R$ 15.99",
+      "Preço ideal dos produtos": "R$ 8.29",
+      "Custos Operacionais": "R$ 5.80",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Brinquedos para animais",
+      "Preço atual dos produtos": "R$ 26.30",
+      "Preço ideal dos produtos": "R$ 21.86",
+      "Custos Operacionais": "R$ 15.30",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Casinhas de animais",
+      "Preço atual dos produtos": "R$ 30.90",
+      "Preço ideal dos produtos": "R$ 26.86",
+      "Custos Operacionais": "R$ 18.80",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Caminhas para animais",
+      "Preço atual dos produtos": "R$ 35.20",
+      "Preço ideal dos produtos": "R$ 31.29",
+      "Custos Operacionais": "R$ 21.90",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Roupas para animais",
+      "Preço atual dos produtos": "R$ 54.99",
+      "Preço ideal dos produtos": "R$ 22.14",
+      "Custos Operacionais": "R$ 15.50",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Produtos para higienização",
+      "Preço atual dos produtos": "R$ 49.90",
+      "Preço ideal dos produtos": "R$ 46.14",
+      "Custos Operacionais": "R$ 32.30",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    },
+    {
+      "Nome": "Banho e Tosa",
+      "Preço atual dos produtos": "R$ 70.00",
+      "Preço ideal dos produtos": "R$ 81.86",
+      "Custos Operacionais": "R$ 57.30",
+      "Margem de Lucro": "30%",
+      "Multiplicador": "70%"
+    }
+  ]
+}
